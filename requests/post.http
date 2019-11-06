@@ -1,0 +1,6 @@
+POST http://localhost:5000/api/url/shorten
+Content-Type: application/json
+
+{
+  "longUrl": "https://www.americanas.com.br/produto/134573381?chave=prf_hm_0_oh_1_00_desconto&voltagem=BIVOLT"
+}
